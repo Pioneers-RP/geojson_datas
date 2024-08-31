@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <!-- Include the CesiumJS JavaScript and CSS files -->
+        <script src="https://cesium.com/downloads/cesiumjs/releases/1.119/Build/Cesium/Cesium.js"></script>
+        <link href="https://cesium.com/downloads/cesiumjs/releases/1.119/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+        <style>
+            body,
+            html,
+            #cesiumContainer {
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+            }
+
+            .cesium-viewer-animationContainer, .cesium-viewer-timelineContainer, .cesium-viewer-bottom, .cesium-viewer-fullscreenContainer, .cesium-viewer-toolbar {
+                display: none !important;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="cesiumContainer"></div>
+            <script type="module">
+
+                var viewer = new Cesium.Viewer('cesiumContainer', {
+                    terrainProviderViewModels: Cesium.createDefaultTerrainProviderViewModels(),
+                    selectedTerrainProviderViewModel: Cesium.createDefaultTerrainProviderViewModels()[0]
+                });
+
+                function loadGeoJson(url) {
+                    Cesium.GeoJsonDataSource.load(url).then(function (dataSource) {
+
+                        viewer.dataSources.add(dataSource);
+
+                        var entities = dataSource.entities.values;
+                        for (var i = 0; i < entities.length; i++) {
+                            var entity = entities[i];
+
+                            if (Cesium.defined(entity.polygon)) {
+                                entity.polygon.material = Cesium.Color.WHITE.withAlpha(0.6);
+                                entity.polygon.outline = true;
+                                entity.polygon.outlineColor = Cesium.Color.BLACK;
+                            }
+
+                            if (Cesium.defined(entity.polyline)) {
+                                entity.polyline.material = new Cesium.PolylineGlowMaterialProperty({
+                                    color: Cesium.Color.BLUE.withAlpha(0.7)
+                                });
+                                entity.polyline.width = 5;
+                            }
+
+                            if (Cesium.defined(entity.point)) {
+                                entity.point.pixelSize = 10;
+                                entity.point.color = Cesium.Color.YELLOW;
+                            }
+                        }
+                    });
+                }
+
+                loadGeoJson("./states/Afghanistan.json");
+                loadGeoJson("./states/AkrotiriandDhekelia.json");
+                loadGeoJson("./states/Åland.json");
+                loadGeoJson("./states/Albania.json");
+                loadGeoJson("./states/Algeria.json");
+                loadGeoJson("./states/AmericanSamoa.json");
+                loadGeoJson("./states/Andorra.json");
+                loadGeoJson("./states/Angola.json");
+                loadGeoJson("./states/Anguilla.json");
+                loadGeoJson("./states/AntiguaandBarbuda.json");
+                loadGeoJson("./states/Argentina.json");
+                loadGeoJson("./states/Armenia.json");
+                loadGeoJson("./states/Aruba.json");
+                loadGeoJson("./states/Australia.json");
+                loadGeoJson("./states/Austria.json");
+                loadGeoJson("./states/Azerbaijan.json");
+                loadGeoJson("./states/Bahamas.json");
+                loadGeoJson("./states/Bahrain.json");
+                loadGeoJson("./states/Bangladesh.json");
+                loadGeoJson("./states/Barbados.json");
+                loadGeoJson("./states/Belarus.json");
+                loadGeoJson("./states/Belgium.json");
+                loadGeoJson("./states/Belize.json");
+                loadGeoJson("./states/Benin.json");
+                loadGeoJson("./states/Bermuda.json");
+                loadGeoJson("./states/Bhutan.json");
+                loadGeoJson("./states/Bolivia.json");
+                loadGeoJson("./states/BonaireSintEustatiusandSaba.json");
+                loadGeoJson("./states/BosniaandHerzegovina.json");
+                loadGeoJson("./states/Botswana.json");
+                loadGeoJson("./states/BouvetIsland.json");
+                loadGeoJson("./states/Brazil.json");
+                loadGeoJson("./states/BritishIndianOceanTerritory.json");
+                loadGeoJson("./states/BritishVirginIslands.json");
+                loadGeoJson("./states/Brunei.json");
+                loadGeoJson("./states/Bulgaria.json");
+                loadGeoJson("./states/BurkinaFaso.json");
+                loadGeoJson("./states/Burundi.json");
+                loadGeoJson("./states/CaboVerde.json");
+                loadGeoJson("./states/Cambodia.json");
+                loadGeoJson("./states/Cameroon.json");
+                loadGeoJson("./states/Canada.json");
+                loadGeoJson("./states/CaymanIslands.json");
+                loadGeoJson("./states/CentralAfricanRepublic.json");
+                loadGeoJson("./states/Chad.json");
+                loadGeoJson("./states/Chile.json");
+                loadGeoJson("./states/China.json");
+                loadGeoJson("./states/ChristmasIsland.json");
+                loadGeoJson("./states/ClippertonIsland.json");
+                loadGeoJson("./states/CocosIslands.json");
+                loadGeoJson("./states/Colombia.json");
+                loadGeoJson("./states/Comoros.json");
+                loadGeoJson("./states/RepublicoftheCongo.json");
+                loadGeoJson("./states/CookIslands.json");
+                loadGeoJson("./states/CostaRica.json");
+                loadGeoJson("./states/CôtedIvoire.json");
+                loadGeoJson("./states/Croatia.json");
+                loadGeoJson("./states/Cuba.json");
+                loadGeoJson("./states/Curaçao.json");
+                loadGeoJson("./states/Cyprus.json");
+                loadGeoJson("./states/Czechia.json");
+                loadGeoJson("./states/DemocraticRepublicoftheCongo.json");
+                loadGeoJson("./states/Denmark.json");
+                loadGeoJson("./states/Djibouti.json");
+                loadGeoJson("./states/Dominica.json");
+                loadGeoJson("./states/Timor-Leste.json");
+                loadGeoJson("./states/Ecuador.json");
+                loadGeoJson("./states/Egypt.json");
+                loadGeoJson("./states/ElSalvador.json");
+            </script>
+        </div>
+    </body>
+</html>
