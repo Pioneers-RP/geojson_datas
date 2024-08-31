@@ -66,19 +66,82 @@
                 }
             });
         }
-        var directory = "./states";
-        fs.readdir(directory, function (err, files) {
-            if (err) {
-                console.error("Error reading directory:", err);
-                return;
-            }
-
-            files.forEach(function (file) {
-                var filePath = directory + "/" + file;
-                loadGeoJson(filePath);
-            });
-        });
-
+        var file_list = [
+            "Afghanistan",
+            "AkrotiriandDhekelia",
+            "Åland",
+            "Albania",
+            "Algeria",
+            "AmericanSamoa",
+            "Andorra",
+            "Angola",
+            "Anguilla",
+            "AntiguaandBarbuda",
+            "Argentina",
+            "Armenia",
+            "Aruba",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Benin",
+            "Bermuda",
+            "Bhutan",
+            "Bolivia",
+            "BonaireSintEustatiusandSaba",
+            "BosniaandHerzegovina",
+            "Botswana",
+            "BouvetIsland",
+            "Brazil",
+            "BritishIndianOceanTerritory",
+            "BritishVirginIslands",
+            "Brunei",
+            "Bulgaria",
+            "BurkinaFaso",
+            "Burundi",
+            "CaboVerde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "CaymanIslands",
+            "CentralAfricanRepublic",
+            "Chad",
+            "Chile",
+            "China",
+            "ChristmasIsland",
+            "ClippertonIsland",
+            "CocosIslands",
+            "Colombia",
+            "Comoros",
+            "CookIslands",
+            "CostaRica",
+            "CôtedIvoire",
+            "Croatia",
+            "Cuba",
+            "Curaçao",
+            "Cyprus",
+            "Czechia",
+            "DemocraticRepublicoftheCongo",
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "DominicanRepublic",
+            "Ecuador",
+            "Egypt",
+            "ElSalvador",
+            "EquatorialGuinea",
+            "RepublicoftheCongo",
+            "Timor-Leste"
+        ];
+        for (var i = 0; i < file_list.length; i++) {
+            loadGeoJson('./states/' + file_list[i] + '.json');
+        }
     </script>
     </div>
 </body>
