@@ -21,7 +21,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BA.BR",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 493
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -378,7 +379,8 @@
         "ENGTYPE_1": "Entity",
         "CC_1": "NA",
         "HASC_1": "BA.BF",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 26100
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4611,7 +4613,8 @@
         "ENGTYPE_1": "Entity",
         "CC_1": "NA",
         "HASC_1": "BA.SR",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 24000
       },
       "geometry": {
         "type": "MultiPolygon",
