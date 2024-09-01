@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "BLZ",
-        "COUNTRY": "Belize"
+        "COUNTRY": "Belize",
+        "AREA": 22966
       },
       "geometry": {
         "type": "MultiPolygon",
