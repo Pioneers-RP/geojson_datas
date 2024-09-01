@@ -21,7 +21,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.CE",
-        "ISO_1": "BW-CE"
+        "ISO_1": "BW-CE",
+        "AREA": 237950
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3910,7 +3911,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.CH",
-        "ISO_1": "BW-CH"
+        "ISO_1": "BW-CH",
+        "AREA": 48300
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5075,7 +5077,8 @@
         "ENGTYPE_1": "City",
         "CC_1": "NA",
         "HASC_1": "BW.FR",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 2489
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5154,83 +5157,6 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_1": "BWA.4_1",
-        "GID_0": "BWA",
-        "COUNTRY": "Botswana",
-        "NAME_1": "Gaborone",
-        "VARNAME_1": "NA",
-        "NL_NAME_1": "NA",
-        "TYPE_1": "City",
-        "ENGTYPE_1": "City",
-        "CC_1": "NA",
-        "HASC_1": "BW.GB",
-        "ISO_1": "NA"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                25.9497,
-                -24.5066
-              ],
-              [
-                26.0217,
-                -24.5505
-              ],
-              [
-                25.9888,
-                -24.6016
-              ],
-              [
-                26.0169,
-                -24.6382
-              ],
-              [
-                26.0141,
-                -24.679
-              ],
-              [
-                25.9564,
-                -24.7001
-              ],
-              [
-                25.8987,
-                -24.7071
-              ],
-              [
-                25.8102,
-                -24.647
-              ],
-              [
-                25.8397,
-                -24.6178
-              ],
-              [
-                25.8474,
-                -24.6073
-              ],
-              [
-                25.8817,
-                -24.5761
-              ],
-              [
-                25.9244,
-                -24.5339
-              ],
-              [
-                25.9497,
-                -24.5066
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "GID_1": "BWA.5_1",
         "GID_0": "BWA",
         "COUNTRY": "Botswana",
@@ -5241,7 +5167,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.GH",
-        "ISO_1": "BW-GH"
+        "ISO_1": "BW-GH",
+        "AREA": 112050
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5404,75 +5331,6 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_1": "BWA.6_1",
-        "GID_0": "BWA",
-        "COUNTRY": "Botswana",
-        "NAME_1": "Jwaneng",
-        "VARNAME_1": "NA",
-        "NL_NAME_1": "NA",
-        "TYPE_1": "Town",
-        "ENGTYPE_1": "Town",
-        "CC_1": "NA",
-        "HASC_1": "BW.JW",
-        "ISO_1": "NA"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                24.7308,
-                -24.6245
-              ],
-              [
-                24.7163,
-                -24.6249
-              ],
-              [
-                24.711,
-                -24.61
-              ],
-              [
-                24.7037,
-                -24.6001
-              ],
-              [
-                24.7173,
-                -24.5938
-              ],
-              [
-                24.7371,
-                -24.5915
-              ],
-              [
-                24.7537,
-                -24.5921
-              ],
-              [
-                24.752,
-                -24.6057
-              ],
-              [
-                24.7536,
-                -24.6193
-              ],
-              [
-                24.7377,
-                -24.6199
-              ],
-              [
-                24.7308,
-                -24.6245
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "GID_1": "BWA.7_1",
         "GID_0": "BWA",
         "COUNTRY": "Botswana",
@@ -5483,7 +5341,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.KG",
-        "ISO_1": "BW-KG"
+        "ISO_1": "BW-KG",
+        "AREA": 87481
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9468,7 +9327,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.KL",
-        "ISO_1": "BW-KL"
+        "ISO_1": "BW-KL",
+        "AREA": 5341
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10889,7 +10749,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.KW",
-        "ISO_1": "BW-KW"
+        "ISO_1": "BW-KW",
+        "AREA": 39287
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11088,83 +10949,6 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_1": "BWA.10_1",
-        "GID_0": "BWA",
-        "COUNTRY": "Botswana",
-        "NAME_1": "Lobatse",
-        "VARNAME_1": "NA",
-        "NL_NAME_1": "NA",
-        "TYPE_1": "Town",
-        "ENGTYPE_1": "Town",
-        "CC_1": "NA",
-        "HASC_1": "BW.LB",
-        "ISO_1": "NA"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                25.6925,
-                -25.2394
-              ],
-              [
-                25.6802,
-                -25.2452
-              ],
-              [
-                25.6612,
-                -25.2377
-              ],
-              [
-                25.6649,
-                -25.2249
-              ],
-              [
-                25.6662,
-                -25.2042
-              ],
-              [
-                25.6792,
-                -25.1835
-              ],
-              [
-                25.6873,
-                -25.1815
-              ],
-              [
-                25.707,
-                -25.1815
-              ],
-              [
-                25.7038,
-                -25.1982
-              ],
-              [
-                25.6927,
-                -25.2122
-              ],
-              [
-                25.7098,
-                -25.2182
-              ],
-              [
-                25.7085,
-                -25.232
-              ],
-              [
-                25.6925,
-                -25.2394
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "GID_1": "BWA.11_1",
         "GID_0": "BWA",
         "COUNTRY": "Botswana",
@@ -11175,7 +10959,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.NE",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 19607
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12166,7 +11951,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.NC",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 82000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13033,107 +12819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "GID_1": "BWA.13_1",
-        "GID_0": "BWA",
-        "COUNTRY": "Botswana",
-        "NAME_1": "SelibePhikwe",
-        "VARNAME_1": "NA",
-        "NL_NAME_1": "NA",
-        "TYPE_1": "Town",
-        "ENGTYPE_1": "Town",
-        "CC_1": "NA",
-        "HASC_1": "BW.SP",
-        "ISO_1": "NA"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                27.8913,
-                -21.9606
-              ],
-              [
-                27.8851,
-                -21.9721
-              ],
-              [
-                27.8923,
-                -21.9836
-              ],
-              [
-                27.8873,
-                -22.0013
-              ],
-              [
-                27.8741,
-                -22.0107
-              ],
-              [
-                27.8552,
-                -22.0047
-              ],
-              [
-                27.8397,
-                -21.9966
-              ],
-              [
-                27.8234,
-                -22.0039
-              ],
-              [
-                27.8024,
-                -21.9944
-              ],
-              [
-                27.8037,
-                -21.9828
-              ],
-              [
-                27.8015,
-                -21.9681
-              ],
-              [
-                27.8118,
-                -21.9587
-              ],
-              [
-                27.8226,
-                -21.9557
-              ],
-              [
-                27.8247,
-                -21.9531
-              ],
-              [
-                27.8412,
-                -21.9557
-              ],
-              [
-                27.8555,
-                -21.9645
-              ],
-              [
-                27.8649,
-                -21.9512
-              ],
-              [
-                27.8804,
-                -21.9476
-              ],
-              [
-                27.8913,
-                -21.9606
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "GID_1": "BWA.14_1",
         "GID_0": "BWA",
         "COUNTRY": "Botswana",
@@ -13144,7 +12829,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.SR",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 18400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13495,7 +13181,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BW.SO",
-        "ISO_1": "BW-SO"
+        "ISO_1": "BW-SO",
+        "AREA": 45500
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14248,67 +13935,4 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "GID_1": "BWA.16_1",
-        "GID_0": "BWA",
-        "COUNTRY": "Botswana",
-        "NAME_1": "Sowa",
-        "VARNAME_1": "NA",
-        "NL_NAME_1": "NA",
-        "TYPE_1": "Town",
-        "ENGTYPE_1": "Town",
-        "CC_1": "NA",
-        "HASC_1": "BW.ST",
-        "ISO_1": "NA"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                26.2228,
-                -20.553
-              ],
-              [
-                26.2287,
-                -20.5562
-              ],
-              [
-                26.2368,
-                -20.5642
-              ],
-              [
-                26.2332,
-                -20.5739
-              ],
-              [
-                26.2105,
-                -20.5702
-              ],
-              [
-                26.2105,
-                -20.5638
-              ],
-              [
-                26.2138,
-                -20.5574
-              ],
-              [
-                26.2172,
-                -20.5533
-              ],
-              [
-                26.2228,
-                -20.553
-              ]
-            ]
-          ]
-        ]
-      }
     }
-  ]
-}
