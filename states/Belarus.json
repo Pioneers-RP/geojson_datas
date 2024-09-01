@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.BR",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 32800
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4986,7 +4987,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.HO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 40400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9547,7 +9549,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.HR",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 25100
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15592,7 +15595,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.MI",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 39900
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21541,7 +21545,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.MA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 29100
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27298,7 +27303,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.VI",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 40100
       },
       "geometry": {
         "type": "MultiPolygon",
