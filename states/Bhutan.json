@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "BTN",
-        "COUNTRY": "Bhutan"
+        "COUNTRY": "Bhutan",
+        "AREA": 38394
       },
       "geometry": {
         "type": "MultiPolygon",
