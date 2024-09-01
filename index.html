@@ -173,6 +173,11 @@
         for (var i = 0; i < file_list.length; i++) {
             loadGeoJson('./states/' + file_list[i] + '.json');
         }
+
+        const geocoder = viewer.geocoder.viewModel;
+        geocoder.searchText = "";
+        geocoder.flightDuration = 5.0;
+        geocoder.search();
     </script>
     </div>
 </body>
