@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "BRB",
-        "COUNTRY": "Barbados"
+        "COUNTRY": "Barbados",
+        "AREA": 430
       },
       "geometry": {
         "type": "MultiPolygon",
