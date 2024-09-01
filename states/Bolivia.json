@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.EB",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 213564
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10222,7 +10223,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.CQ",
-        "ISO_1": "BO-H"
+        "ISO_1": "BO-H",
+        "AREA": 51524
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17987,7 +17989,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.CB",
-        "ISO_1": "BO-C"
+        "ISO_1": "BO-C",
+        "AREA": 55631
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25620,7 +25623,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.LP",
-        "ISO_1": "BO-L"
+        "ISO_1": "BO-L",
+        "AREA": 133985
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36233,7 +36237,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.OR",
-        "ISO_1": "BO-O"
+        "ISO_1": "BO-O",
+        "AREA": 53588
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40282,7 +40287,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.PA",
-        "ISO_1": "BO-N"
+        "ISO_1": "BO-N",
+        "AREA": 63827
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47039,7 +47045,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.PO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 118218
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55334,7 +55341,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.SC",
-        "ISO_1": "BO-S"
+        "ISO_1": "BO-S",
+        "AREA": 370621
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65563,7 +65571,8 @@
         "ENGTYPE_1": "Department",
         "CC_1": "NA",
         "HASC_1": "BO.TR",
-        "ISO_1": "BO-T"
+        "ISO_1": "BO-T",
+        "AREA": 37623
       },
       "geometry": {
         "type": "MultiPolygon",
