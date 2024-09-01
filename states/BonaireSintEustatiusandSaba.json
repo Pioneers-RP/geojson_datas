@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Municipality",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "BQ-BO"
+        "ISO_1": "BQ-BO",
+        "AREA": 288
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -482,7 +483,8 @@
         "ENGTYPE_1": "Municipality",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "BQ-SA"
+        "ISO_1": "BQ-SA",
+        "AREA": 13
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -611,7 +613,8 @@
         "ENGTYPE_1": "Municipality",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "BQ-SE"
+        "ISO_1": "BQ-SE",
+        "AREA": 21
       },
       "geometry": {
         "type": "MultiPolygon",
