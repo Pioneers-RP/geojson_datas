@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 13625
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2486,7 +2487,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 16901
       },
       "geometry": {
         "type": "MultiPolygon",
