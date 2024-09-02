@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "CXR",
-        "COUNTRY": "ChristmasIsland"
+        "COUNTRY": "ChristmasIsland",
+        "AREA": 135
       },
       "geometry": {
         "type": "MultiPolygon",
