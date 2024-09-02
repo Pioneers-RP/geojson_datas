@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "CRI",
-        "COUNTRY": "CostaRica"
+        "COUNTRY": "CostaRica",
+        "AREA": 51100
       },
       "geometry": {
         "type": "MultiPolygon",
