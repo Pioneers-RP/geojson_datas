@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "COK",
-        "COUNTRY": "CookIslands"
+        "COUNTRY": "CookIslands",
+        "AREA": 240
       },
       "geometry": {
         "type": "MultiPolygon",
