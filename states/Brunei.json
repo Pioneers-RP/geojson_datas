@@ -21,7 +21,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BN.BE",
-        "ISO_1": "BN-BE"
+        "ISO_1": "BN-BE",
+        "AREA": 2727
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -614,7 +615,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BN.BM",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 571
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1563,7 +1565,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BN.TE",
-        "ISO_1": "BN-TE"
+        "ISO_1": "BN-TE",
+        "AREA": 1288
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2204,7 +2207,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "BN.TU",
-        "ISO_1": "BN-TU"
+        "ISO_1": "BN-TU",
+        "AREA": 1166
       },
       "geometry": {
         "type": "MultiPolygon",
