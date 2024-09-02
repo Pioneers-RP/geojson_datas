@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.BB",
-        "ISO_1": "CF-BB"
+        "ISO_1": "CF-BB",
+        "AREA": 69265
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3530,7 +3531,8 @@
         "ENGTYPE_1": "AutonomousCommune",
         "CC_1": "NA",
         "HASC_1": "CF.BG",
-        "ISO_1": "CF-BGF"
+        "ISO_1": "CF-BGF",
+        "AREA": 657
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3619,7 +3621,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.BK",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 67640
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5176,7 +5179,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.HM",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 66980
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11193,7 +11197,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.HK",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 55400
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14046,7 +14051,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.KG",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 34974
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15135,7 +15141,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.LB",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 19641
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16564,7 +16571,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.HS",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 44440
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18393,7 +18401,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.MB",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 39115
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21398,7 +21407,8 @@
         "ENGTYPE_1": "EconomicPrefecture",
         "CC_1": "NA",
         "HASC_1": "CF.KB",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 65046
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23423,7 +23433,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.NM",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 44000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25104,7 +25115,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.MP",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 14155
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26697,7 +26709,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.UK",
-        "ISO_1": "CF-UK"
+        "ISO_1": "CF-UK",
+        "AREA": 60000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28978,7 +28991,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.AC",
-        "ISO_1": "CF-AC"
+        "ISO_1": "CF-AC",
+        "AREA": 59272
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32199,7 +32213,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.OP",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 58200
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34748,7 +34763,8 @@
         "ENGTYPE_1": "EconomicPrefecture",
         "CC_1": "NA",
         "HASC_1": "CF.SE",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 33167
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36213,7 +36229,8 @@
         "ENGTYPE_1": "Prefecture",
         "CC_1": "NA",
         "HASC_1": "CF.VK",
-        "ISO_1": "CF-VK"
+        "ISO_1": "CF-VK",
+        "AREA": 64000
       },
       "geometry": {
         "type": "MultiPolygon",
