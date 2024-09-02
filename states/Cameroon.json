@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.AD",
-        "ISO_1": "CM-AD"
+        "ISO_1": "CM-AD",
+        "AREA": 63700
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5210,7 +5211,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.CE",
-        "ISO_1": "CM-CE"
+        "ISO_1": "CM-CE",
+        "AREA": 70000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11159,7 +11161,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.ES",
-        "ISO_1": "CM-ES"
+        "ISO_1": "CM-ES",
+        "AREA": 108000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16388,7 +16391,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.EN",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 35000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20445,7 +20449,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.LT",
-        "ISO_1": "CM-LT"
+        "ISO_1": "CM-LT",
+        "AREA": 7800
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25458,7 +25463,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.NO",
-        "ISO_1": "CM-NO"
+        "ISO_1": "CM-NO",
+        "AREA": 76000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30679,7 +30685,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.NW",
-        "ISO_1": "CM-NW"
+        "ISO_1": "CM-NW",
+        "AREA": 17000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33260,7 +33267,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.OU",
-        "ISO_1": "CM-OU"
+        "ISO_1": "CM-OU",
+        "AREA": 20000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36409,7 +36417,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.SU",
-        "ISO_1": "CM-SU"
+        "ISO_1": "CM-SU",
+        "AREA": 58000
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40586,7 +40595,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CM.SW",
-        "ISO_1": "CM-SW"
+        "ISO_1": "CM-SW",
+        "AREA": 18000
       },
       "geometry": {
         "type": "MultiPolygon",
