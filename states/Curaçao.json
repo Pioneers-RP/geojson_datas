@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "CUW",
-        "COUNTRY": "Curaçao"
+        "COUNTRY": "Curaçao",
+        "AREA": 444
       },
       "geometry": {
         "type": "MultiPolygon",
