@@ -22,7 +22,7 @@
         "CC_1": "NA",
         "HASC_1": "NA",
         "ISO_1": "NA",
-	"AREA": 123,
+	    "AREA": 123
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -284,7 +284,7 @@
         "CC_1": "NA",
         "HASC_1": "NA",
         "ISO_1": "NA",
-	"AREA": 131,
+	    "AREA": 131
       },
       "geometry": {
         "type": "MultiPolygon",
