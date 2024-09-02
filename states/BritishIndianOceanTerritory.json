@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "IOT",
-        "COUNTRY": "BritishIndianOceanTerritory"
+        "COUNTRY": "BritishIndianOceanTerritory",
+        "AREA": 60
       },
       "geometry": {
         "type": "MultiPolygon",
