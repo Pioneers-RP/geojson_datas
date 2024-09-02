@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "CPV",
-        "COUNTRY": "CaboVerde"
+        "COUNTRY": "CaboVerde",
+        "AREA": 4033
       },
       "geometry": {
         "type": "MultiPolygon",
