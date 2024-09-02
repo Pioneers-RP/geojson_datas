@@ -21,7 +21,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 39
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -258,7 +259,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -591,7 +593,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 29
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1212,7 +1215,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 56
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2237,7 +2241,8 @@
         "ENGTYPE_1": "District",
         "CC_1": "NA",
         "HASC_1": "NA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 22
       },
       "geometry": {
         "type": "MultiPolygon",
