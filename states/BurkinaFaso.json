@@ -21,7 +21,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.BO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 34333
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3542,7 +3543,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.CD",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 18970
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6807,7 +6809,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.CT",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 2850
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7700,7 +7703,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.CE",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 14126
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10657,7 +10661,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.CN",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 19973
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13158,7 +13163,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.CO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 21722
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15755,7 +15761,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.CS",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 11149
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18272,7 +18279,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.ES",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 46256
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21785,7 +21793,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.HB",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 25478
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25742,7 +25751,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.NO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 17354 
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27139,7 +27149,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.PC",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 8605
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29308,7 +29319,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.SA",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 36166
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31529,7 +31541,8 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BF.SO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 16536
       },
       "geometry": {
         "type": "MultiPolygon",
