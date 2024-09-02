@@ -21,7 +21,8 @@
         "ENGTYPE_1": "AutonomousIsland",
         "CC_1": "NA",
         "HASC_1": "KM.MO",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 290
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1158,7 +1159,8 @@
         "ENGTYPE_1": "AutonomousIsland",
         "CC_1": "NA",
         "HASC_1": "KM.GC",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 1148
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2191,7 +2193,8 @@
         "ENGTYPE_1": "AutonomousIsland",
         "CC_1": "NA",
         "HASC_1": "KM.AN",
-        "ISO_1": "NA"
+        "ISO_1": "NA",
+        "AREA": 424
       },
       "geometry": {
         "type": "MultiPolygon",
