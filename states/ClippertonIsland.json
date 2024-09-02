@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "XCL",
-        "COUNTRY": "ClippertonIsland"
+        "COUNTRY": "ClippertonIsland",
+        "AREA": 6
       },
       "geometry": {
         "type": "MultiPolygon",
