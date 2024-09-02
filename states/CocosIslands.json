@@ -12,7 +12,8 @@
       "type": "Feature",
       "properties": {
         "GID_0": "CCK",
-        "COUNTRY": "CocosIslands"
+        "COUNTRY": "CocosIslands",
+        "AREA": 24
       },
       "geometry": {
         "type": "MultiPolygon",
