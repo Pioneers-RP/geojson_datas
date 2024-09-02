@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e132f79-9129-48e0-bb6f-72ef177dc49c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/AkrotiriandDhekelia.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/AkrotiriandDhekelia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Albania.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Albania.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Armenia.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Armenia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Azerbaijan.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Azerbaijan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Cambodia.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Cambodia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Cyprus.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Cyprus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Estonia.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Estonia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Guatemala.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Guatemala.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/Haiti.json" beforeDir="false" afterPath="$PROJECT_DIR$/states/Haiti.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Subcher&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnnonyWOLFRODA/geojson_datas.git&quot;,
+    &quot;accountId&quot;: &quot;8565faf7-b4e7-4b9c-8aed-7831ac660ef5&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/a7ac3a9b-0d9e-4880-855c-66bec6f32075_gadm41_CHN_2.json.zip.075/gadm41_CHN_2.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/af4f8664-37af-4944-86e9-ddf3b6bb7137_gadm41_UMI_1.json.zip.137/gadm41_UMI_1.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lSs7ThhedUeklVx4uY9dMzk6tk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "countries",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e132f79-9129-48e0-bb6f-72ef177dc49c" name="Changes" comment="" />
+      <created>1725184645181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725184645181</updated>
+      <workItem from="1725184646284" duration="9625000" />
+      <workItem from="1725286579410" duration="6559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
