@@ -21,8 +21,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.CK",
-        "ISO_1": "NA",
-        "AREA": 10057
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2927,8 +2926,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.BK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5153,8 +5151,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.KK",
-        "ISO_1": "NA",
-        "AREA": 3314
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7035,8 +7032,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.JK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8285,8 +8281,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.HK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10567,8 +10562,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.LK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12081,8 +12075,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.VK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14423,8 +14416,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.OK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16273,8 +16265,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.EK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17571,8 +17562,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.PK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19401,8 +19391,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.SK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21135,8 +21124,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.UK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23385,8 +23373,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "CZ.ZK",
-        "ISO_1": "NA",
-        "AREA": 
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
